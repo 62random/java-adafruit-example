@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42f49d01-0d8b-4504-af25-38cd628ab80e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_eclipse_paho_org_eclipse_paho_client_mqttv3_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/MQTT_Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/export_secrets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-adafruit-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org.eclipse.paho.client.mqttv3-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MQTT_Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZXHLbhKGRNyFmKuajtARRxb4WO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager" selected="Application.MQTT_Test">
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="MQTT_Test" type="Application" />
+      <toRun name="export_secrets" type="ShConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="export_secrets.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MQTT_Test" />
+      <item itemvalue="Shell Script.export_secrets" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MQTT_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42f49d01-0d8b-4504-af25-38cd628ab80e" name="Default Changelist" comment="" />
+      <created>1584978463703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584978463703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="1294" width="800" height="677" key="#Project_Structure" timestamp="1584978793516">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="555" y="1294" width="800" height="677" key="#Project_Structure/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584978793516" />
+    <state x="417" y="1128" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584979637199">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="417" y="1128" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584979637199" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1584980043331">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980043331" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1584980043331">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980043331" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1584980043331">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980043331" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1584980043331">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980043331" />
+    <state x="443" y="1210" width="1024" height="845" key="SettingsEditor" timestamp="1584978747144">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="443" y="1210" width="1024" height="845" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584978747144" />
+    <state x="627" y="1528" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584978727456">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="627" y="1528" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584978727456" />
+  </component>
+</project>
