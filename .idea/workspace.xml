@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f49d01-0d8b-4504-af25-38cd628ab80e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_eclipse_paho_org_eclipse_paho_client_mqttv3_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/MQTT_Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/export_secrets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-adafruit-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/org.eclipse.paho.client.mqttv3-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MQTT_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/MQTT_Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/export_secrets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-adafruit-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-adafruit-example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MQTT_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MQTT_CAT.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +38,26 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
-  <component name="RunManager" selected="Application.MQTT_Test">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MQTT_CAT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MQTT_CAT" />
+      <module name="java-adafruit-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="CompoundRunConfigurationType">
       <toRun name="MQTT_Test" type="Application" />
       <toRun name="export_secrets" type="ShConfigurationType" />
@@ -61,13 +71,9 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Application.MQTT_Test" />
-      <item itemvalue="Shell Script.export_secrets" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MQTT_Test" />
+        <item itemvalue="Application.MQTT_CAT" />
       </list>
     </recent_temporary>
   </component>
@@ -82,40 +88,73 @@
       <option name="presentableId" value="Default" />
       <updated>1584978463703</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit with intellij project structure and simple example;">
+      <created>1584980092690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584980092690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit with intellij project structure and simple example;" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit with intellij project structure and simple example;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="1294" width="800" height="677" key="#Project_Structure" timestamp="1584978793516">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="555" y="1294" width="800" height="677" key="#Project_Structure/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584978793516" />
-    <state x="417" y="1128" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584979637199">
-      <screen x="0" y="1080" width="1920" height="1080" />
+    <state x="417" y="48" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585249745694">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="417" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585249745694" />
     <state x="417" y="1128" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584979637199" />
-    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1584980043331">
+    <state x="768" y="251" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1585248930586">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="768" y="251" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585248930586" />
+    <state x="531" y="1209" width="848" height="847" key="CommitChangelistDialog2" timestamp="1584980092585">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980043331" />
-    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1584980043331">
+    <state x="531" y="1209" width="848" height="847" key="CommitChangelistDialog2/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980092585" />
+    <state x="743" y="1376" width="424" height="513" key="FileChooserDialogImpl" timestamp="1585050940708">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980043331" />
-    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1584980043331">
+    <state x="743" y="1376" width="424" height="513" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1585050940708" />
+    <state width="1874" height="226" key="GridCell.Tab.0.bottom" timestamp="1585252037909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="226" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585252037909" />
+    <state width="1874" height="352" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1585057831655" />
+    <state width="1874" height="226" key="GridCell.Tab.0.center" timestamp="1585252037909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="226" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585252037909" />
+    <state width="1874" height="352" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1585057831655" />
+    <state width="1874" height="226" key="GridCell.Tab.0.left" timestamp="1585252037908">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="226" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585252037908" />
+    <state width="1874" height="352" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1585057831655" />
+    <state width="1874" height="226" key="GridCell.Tab.0.right" timestamp="1585252037909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="226" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585252037909" />
+    <state width="1874" height="352" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1585057831655" />
+    <state x="443" y="1210" width="1024" height="845" key="SettingsEditor" timestamp="1585051021003">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980043331" />
-    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1584980043331">
+    <state x="443" y="1210" width="1024" height="845" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1585051021003" />
+    <state x="555" y="1368" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584980111730">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980043331" />
-    <state x="443" y="1210" width="1024" height="845" key="SettingsEditor" timestamp="1584978747144">
+    <state x="555" y="1368" width="800" height="528" key="Vcs.Push.Dialog.v2/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584980111730" />
+    <state x="627" y="1528" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585050989742">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="443" y="1210" width="1024" height="845" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584978747144" />
-    <state x="627" y="1528" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584978727456">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="627" y="1528" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1584978727456" />
+    <state x="627" y="1528" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1585050989742" />
   </component>
 </project>
